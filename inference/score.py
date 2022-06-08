@@ -17,8 +17,8 @@ from sklearn.tree import DecisionTreeClassifier
 Inference script for IRIS Classification:
 
 '''
-__author__ = "Srijith.S"
-__email__ = "srssreejith@gmail.com"
+__author__ = "ABC"
+__email__ = "abc@gmail.com"
 
 def init():
     '''
